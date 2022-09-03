@@ -4,9 +4,8 @@ import {
    OperationType, translateCommandQueue, useCommandQueue
 } from "./contexts/commands";
 import { evaluate, EvaluatorError } from "../evaluator/evaluator";
-import { ParseError } from "../evaluator/parser";
 import { motion } from "framer-motion";
-import { PropsWithChildren, useEffect, useRef } from "react";
+import { useEffect, useRef } from "react";
 import { useHistory } from "./contexts/history";
 
 enum ButtonType {
