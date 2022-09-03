@@ -1,6 +1,6 @@
 # Calculator Project
 
-![screenshot](https://github.com/ItsGPhillips/Calculator/resources/calculator-screenshot.png)
+![screenshot](https://github.com/ItsGPhillips/Calculator/blob/main/resources/calculator-screenshot.png)
 
 > Functioning calulator built **without** using [eval()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval).
 
